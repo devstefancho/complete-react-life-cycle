@@ -1,0 +1,11 @@
+.card {
+  width: 20rem;
+}
+.btn {
+  position: fixed;
+  padding: 10px 20px;
+  margin: 20px;
+
+  background-color: white;
+  border: 1px solid #00000080;
+}
